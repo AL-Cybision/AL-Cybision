@@ -1,16 +1,24 @@
-## Hi there 👋
+ > ###  👨🏻‍💼 Muhammad Noman Ilyas (AL-Cybision) 
+> 🔍 *Application Security & Vulnerability Researcher*
+>
+ > `Application Security` &nbsp;&nbsp;&nbsp;&nbsp;`Secure code review` 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Vulnerability Research` &nbsp; &nbsp; &nbsp; `AI/- ML Model File Vulns`
 
-<!--
-**AL-Cybision/AL-Cybision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Vulnerabilities discovered
+
+  1.  **CVE-2025-59420** — [GHSA-9ggr-2464-2j32](<[link-to-advisory](https://github.com/advisories/GHSA-9ggr-2464-2j32)>) · CVSS 7.5
+
+      - Authlib: JWS/JWT accepts unknown crit headers (RFC violation → possible authz bypass)
+
+  2.  **CVE-2025-61920** — [GHSA-pq5p-34cr-23v9](<[link-to-advisory](https://github.com/advisories/GHSA-pq5p-34cr-23v9)>) · CVSS 7.5
+
+      - Authlib vulnerable to Denial of Service via Oversized JOSE Segments
+
+  3.  **CVE-2025-62706** — [GHSA-g7f3-828f-7h7m](<[link-to-advisory](https://github.com/advisories/GHSA-g7f3-828f-7h7m)>) · CVSS 6.5
+      - Authlib : JWE zip=DEF decompression bomb enables DoS
+
+---
