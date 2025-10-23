@@ -1,8 +1,8 @@
  > ###  👨🏻‍💼 Muhammad Noman Ilyas (AL-Cybision) 
-> 🔍 *Application Security & Vulnerability Researcher*
+>  *Application Security & Vulnerability Researcher*
 >
- > `Application Security` &nbsp;&nbsp;&nbsp;&nbsp;`Secure code review` 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Vulnerability Research` &nbsp; &nbsp; &nbsp; `AI/- ML Model File Vulns`
+ > `Secure code review` 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Vulnerability Research` &nbsp; &nbsp; `AI/- ML Model File Vulns`
 
 ---
 
