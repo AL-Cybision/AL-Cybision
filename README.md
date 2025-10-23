@@ -2,7 +2,7 @@
 >  *Application Security & Vulnerability Researcher*
 >
  > `Secure code review` 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Vulnerability Research` &nbsp; &nbsp; `AI/- ML Model File Vulns`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Vulnerability Research` &nbsp; &nbsp; `AI/ML Model File Vulns`
 
 ---
 
