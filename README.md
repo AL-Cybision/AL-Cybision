@@ -8,11 +8,14 @@
 
 <div align="center">
 
-![🔍 SECURE CODE REVIEW](https://img.shields.io/badge/🔍_SECURE_CODE_REVIEW-dfe5ee?style=flat-square&labelColor=cfd8e5&color=dfe5ee)
-![🛡️ VULNERABILITY RESEARCH](https://img.shields.io/badge/🛡️_VULNERABILITY_RESEARCH-dfeee2?style=flat-square&labelColor=cfe0d2&color=dfeee2)
-![🤖 AI/ML MODEL FILE VULNS](https://img.shields.io/badge/🤖_AI%2FML_MODEL_FILE_VULNS-ece5f3?style=flat-square&labelColor=ddd0eb&color=ece5f3)
+<b style="background-color:#f3f4f6; padding:6px 10px; border-radius:6px;">🔍 SECURE CODE REVIEW</b>
+&nbsp;&nbsp;
+<b style="background-color:#f3f4f6; padding:6px 10px; border-radius:6px;">🛡️ VULNERABILITY RESEARCH</b>
+&nbsp;&nbsp;
+<b style="background-color:#f3f4f6; padding:6px 10px; border-radius:6px;">🤖 AI/ML MODEL FILE VULNS</b>
 
 </div>
+
 
 </div>
 
