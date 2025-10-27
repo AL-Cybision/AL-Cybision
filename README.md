@@ -6,7 +6,13 @@
 [![GitHub Followers](https://img.shields.io/github/followers/AL-Cybision?style=social)](https://github.com/AL-Cybision)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-ilyas-alcybision/)
 
-`Secure Code Review` &nbsp; `Vulnerability Research` &nbsp; `AI/ML Model File Vulns`
+<div align="center">
+
+![🔍 SECURE CODE REVIEW](https://img.shields.io/badge/🔍_SECURE_CODE_REVIEW-dfe5ee?style=flat-square&labelColor=cfd8e5&color=dfe5ee)
+![🛡️ VULNERABILITY RESEARCH](https://img.shields.io/badge/🛡️_VULNERABILITY_RESEARCH-dfeee2?style=flat-square&labelColor=cfe0d2&color=dfeee2)
+![🤖 AI/ML MODEL FILE VULNS](https://img.shields.io/badge/🤖_AI%2FML_MODEL_FILE_VULNS-ece5f3?style=flat-square&labelColor=ddd0eb&color=ece5f3)
+
+</div>
 
 </div>
 
