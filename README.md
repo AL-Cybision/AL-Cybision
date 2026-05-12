@@ -32,6 +32,12 @@
 | **CVE-2025-61920** | [GHSA-pq5p-34cr-23v9](https://github.com/advisories/GHSA-pq5p-34cr-23v9) | ![CVSS 7.5](https://img.shields.io/badge/7.5-High-orange?style=flat-square) | [![Authlib](https://img.shields.io/badge/Authlib-green?logo=python&style=flat-square)](https://github.com/authlib/authlib) | DoS via oversized JOSE segments | [nvd.nist.gov/vuln/detail/CVE-2025-61920](https://nvd.nist.gov/vuln/detail/CVE-2025-61920) |
 | **CVE-2025-62706** | [GHSA-g7f3-828f-7h7m](https://github.com/advisories/GHSA-g7f3-828f-7h7m) | ![CVSS 6.5](https://img.shields.io/badge/6.5-Medium-yellow?style=flat-square) | [![Authlib](https://img.shields.io/badge/Authlib-green?logo=python&style=flat-square)](https://github.com/authlib/authlib) | `zip=DEF` decompression bomb enables DoS | [nvd.nist.gov/vuln/detail/CVE-2025-62706](https://nvd.nist.gov/vuln/detail/CVE-2025-62706) |
 
+#### 🔒 Private Validated Findings
+
+| Status | Area | Public-safe summary |
+|---------|------|---------------------|
+| **Private / Validated** | joblib model-file security | Load-time model artifact deserialization issue leading to code-execution risk and scanner-evasion behavior. Technical details withheld until disclosure. |
+| **Private / Validated** | Keras `.keras` model-file security | Safe-mode model-loading bypass class involving model configuration/data-loading behavior, aligned with later public Keras CVE-2025-12058 research. Technical details withheld until disclosure. |
 
 ---
 
