@@ -6,6 +6,12 @@
 [![GitHub Followers](https://img.shields.io/github/followers/AL-Cybision?style=social)](https://github.com/AL-Cybision)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-ilyas-alcybision/)
 
+<br>
+
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/181324772" alt="OSWE Badge" width="120">
+
+<br>
+
 <div align="center">
 
 <b style="background-color:#f3f4f6; padding:6px 10px; border-radius:6px;">🔍 SECURE CODE REVIEW</b>
