@@ -2,6 +2,8 @@
 
 ### 👨🏻‍💼 **Muhammad Noman Ilyas (AL-Cybision)**  
 🛡️ *Application Security & Vulnerability Researcher*  
+🔗 *Huntr Profile : https://huntr.com/users/al-cybision*
+🔗 *HackerOne Profile : https://hackerone.com/al_cybision*
 
 [![GitHub Followers](https://img.shields.io/github/followers/AL-Cybision?style=social)](https://github.com/AL-Cybision)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-ilyas-alcybision/)
