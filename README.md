@@ -9,9 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-noman-ilyas-alcybision/)
 
 <br>
-
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/181324772" alt="OSWE Badge" width="120">
-
+<a href="https://www.credential.net/0e714f8e-bc27-4762-9b68-1e92d80f34ca#acc.cXCy3awt">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/181324772" alt="OSWE Badge" width="120">
+</a>
 <br>
 
 <div align="center">
