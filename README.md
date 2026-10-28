@@ -41,6 +41,38 @@
 | [**CVE-2025-61920**](https://nvd.nist.gov/vuln/detail/CVE-2025-61920) | 🔴 **7.5 High** | 🔐 [**Authlib**](https://github.com/authlib/authlib) | DoS via oversized JOSE segments | [GHSA-pq5p-34cr-23v9](https://github.com/advisories/GHSA-pq5p-34cr-23v9) |
 | [**CVE-2025-62706**](https://nvd.nist.gov/vuln/detail/CVE-2025-62706) | 🟡 **6.5 Medium** | 🔐 [**Authlib**](https://github.com/authlib/authlib) | `zip=DEF` decompression bomb enables DoS | [GHSA-g7f3-828f-7h7m](https://github.com/advisories/GHSA-g7f3-828f-7h7m) |
 
+#### 🌐 Independent Recognition & Security References
+
+Public references below document upstream reporter credits, vendor security responses, and independent vulnerability listings. **A CVE appearing in a product advisory or tracker does not imply that the organization personally endorsed my work or that a specific number of users was protected.**
+
+| Organization / source | Vulnerability | Type of reference | Public record |
+|---|---|---|---|
+| **IBM — Instana OnPrem** | CVE-2026-6691 | Enterprise product security bulletin | [View reference](https://www.ibm.com/support/pages/node/7280794) |
+| **IBM — watsonx.data** | CVE-2025-61920 | Dedicated product security bulletin | [View reference](https://www.ibm.com/support/pages/node/7260258) |
+| **IBM — watsonx Orchestrate** | CVE-2025-59420 | Developer Edition security bulletin | [View reference](https://www.ibm.com/support/pages/security-bulletin-multiple-vulnerabilities-ibm-watsonx-orchestrate-developer-edition-2) |
+| **IBM — watsonx Orchestrate** | CVE-2025-61920, CVE-2025-62706 | Developer Edition security bulletin | [View reference](https://www.ibm.com/support/pages/node/7259416) |
+| **IBM — watsonx Code Assistant** | CVE-2025-59420, CVE-2025-61920 | On-premises product security bulletin | [View reference](https://www.ibm.com/support/pages/security-bulletin-multiple-vulnerabilities-ibm-watsonx-code-assistant-prem-2) |
+| **IBM — watsonx Code Assistant** | CVE-2025-61920, CVE-2025-62706 | Official release notes listing security fixes | [View reference](https://www.ibm.com/docs/en/software-hub/5.3.x?topic=new-watsonx-code-assistant) |
+| **Red Hat — OpenShift AI** | CVE-2025-11157 | Enterprise security advisory RHSA-2026:10184 | [View reference](https://access.redhat.com/errata/RHSA-2026:10184) |
+| **Red Hat — Security Response** | CVE-2025-11157 | Public vulnerability tracking issue | [View reference](https://bugzilla.redhat.com/show_bug.cgi?id=2426574) |
+| **Snyk** | CVE-2025-11157 | **Names Muhammad Noman Ilyas in researcher credit** | [View reference](https://security.snyk.io/vuln/SNYK-PYTHON-FEAST-14830622) |
+| **Authlib (upstream)** | CVE-2025-59420 | **Credits AL-Cybision as reporter** | [View reference](https://github.com/authlib/authlib/security/advisories/GHSA-9ggr-2464-2j32) |
+| **Authlib (upstream)** | CVE-2025-61920 | **Credits AL-Cybision as reporter** | [View reference](https://github.com/authlib/authlib/security/advisories/GHSA-pq5p-34cr-23v9) |
+| **Authlib (upstream)** | CVE-2025-62706 | **Credits AL-Cybision as reporter** | [View reference](https://github.com/authlib/authlib/security/advisories/GHSA-g7f3-828f-7h7m) |
+| **go-jose (upstream)** | JOSE `b64` header issue (non-CVE) | **Credits Muhammad Noman Ilyas as reporter** in merged fix | [View reference](https://github.com/go-jose/go-jose/pull/210) |
+| **SUSE Linux Enterprise** | CVE-2025-62706 | Security update and fixed `python-Authlib` packages | [View reference](https://www.suse.com/security/cve/CVE-2025-62706.html) |
+| **Ubuntu / Canonical** | CVE-2026-6691 | Distribution vulnerability tracking | [View reference](https://ubuntu.com/security/CVE-2026-6691) |
+| **Debian Security Tracker** | CVE-2026-6691 | Distribution package status and fixes | [View reference](https://security-tracker.debian.org/tracker/CVE-2026-6691) |
+| **Debian Security Tracker** | CVE-2025-59420 | Distribution package status and fixes | [View reference](https://security-tracker.debian.org/tracker/CVE-2025-59420) |
+| **Debian Security Tracker** | CVE-2025-61920 | Distribution package status and fixes | [View reference](https://security-tracker.debian.org/tracker/CVE-2025-61920) |
+| **Debian Security Tracker** | CVE-2025-62706 | Distribution package status and fixes | [View reference](https://security-tracker.debian.org/tracker/CVE-2025-62706) |
+| **INCIBE-CERT (Spain)** | CVE-2026-6691 | National cybersecurity vulnerability entry | [View reference](https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/cve-2026-6691) |
+| **INCIBE-CERT (Spain)** | CVE-2025-11157 | National cybersecurity vulnerability entry | [View reference](https://www.incibe.es/en/incibe-cert/early-warning/vulnerabilities/cve-2025-11157) |
+| **GitHub Advisory Database** | CVE-2025-11157 | Reviewed Feast package security advisory | [View reference](https://github.com/advisories/GHSA-34wm-4hw7-qfjv) |
+| **GitLab Advisory Database** | CVE-2025-59420, CVE-2025-61920, CVE-2025-62706 | Published Authlib package advisories | [View reference](https://advisories.gitlab.com/pkg/pypi/authlib/) |
+| **Tenable** | CVE-2025-62706 | SUSE package-security detection advisory | [View reference](https://www.tenable.com/plugins/nessus/271948) |
+| **NIST National Vulnerability Database** | CVE-2025-11157 | National vulnerability record for Feast | [View reference](https://nvd.nist.gov/vuln/detail/CVE-2025-11157) |
+
 #### 🔒 Private Validated Findings
 
 | Status | Area | Public-safe summary |
