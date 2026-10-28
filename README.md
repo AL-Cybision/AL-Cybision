@@ -43,7 +43,7 @@
 
 #### 🌐 Independent Recognition & Security References
 
-Public references below document upstream reporter credits, vendor security responses, and independent vulnerability listings. **A CVE appearing in a product advisory or tracker does not imply that the organization personally endorsed my work or that a specific number of users was protected.**
+Public references below document upstream reporter credits, vendor security responses, and independent vulnerability listings.
 
 | Organization / source | Vulnerability | Type of reference | Public record |
 |---|---|---|---|
